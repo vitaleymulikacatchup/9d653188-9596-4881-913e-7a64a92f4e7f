@@ -47,7 +47,7 @@ export default function Home() {
           kpiItems={[
             { value: "10M", description: "Total Supply" },
             { value: "1M", description: "Max Hold" },
-            { value: "2%", description: "Transaction Fee" },
+            { value: "2%", description: "Transaction Fee" }
           ]}
         />
       </div>
